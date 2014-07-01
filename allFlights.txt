@@ -1,0 +1,12 @@
+Baltimore; Tulsa; 13245;
+Boston; Chicago; 21434;
+Chicago; Boston; 21435;
+Chicago; New York; 13144;
+Chicago; Dalas; 32499;
+Chicago; San Francisco; 79632;
+Denver; Boston; 14355;
+Denver; Detroit; 32445;
+Denver; Seattle; 54688;
+Portland; Chicago; 70893;
+Portland; Miami; 77354;
+Portland; Phoenix; 69850;
